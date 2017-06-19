@@ -110,6 +110,10 @@
       {
         "fileMatch": "*.job.json",
         "url": "./schema/job.schema.json"
+      },
+      {
+        "fileMatch": "*.pool.json",
+        "url": "./schema/pool.schema.json"
       }
     ]
   },
